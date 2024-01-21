@@ -5,7 +5,7 @@
 With this repo we can understand the below topics
 1. Monitoring flow
 2. Prometheus (node exporter, service discovery, pushgatway)
-3. Grafana (dashboards & reporting)
+3. Grafana (dashboards & reporting).
 
 
 ## Installations
